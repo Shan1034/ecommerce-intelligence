@@ -100,3 +100,20 @@ Install Ollama and ensure the model configured in the application is available l
 Shanmathi Prakash
 
 Data Analyst | SQL | Python | MySQL | Data Visualization
+
+# Dashboard Screenshots
+
+## Dashboard Overview
+![Dashboard Overview](screenshots/dashboard%20overview.png)
+
+## Sales Trend
+![Sales Trend](screenshots/sales%20trend.png)
+
+## Profitability Rankings
+![Profitability Rankings](screenshots/profitability%20rankings.png)
+
+## Discount Impact Analysis
+![Discount Impact Analysis](screenshots/discount%20impact%20analysis.png)
+
+## AI Business Insights
+![AI Business Insights](screenshots/AI%20business%20insight.png)
